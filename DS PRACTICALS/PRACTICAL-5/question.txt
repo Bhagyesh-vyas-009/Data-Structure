@@ -1,0 +1,9 @@
+1. how stack can be uesd to recognize a string
+    i.aca
+    ii.abcba
+    iii.abbcbba
+
+2. wap to determine if an input character string in the form of aibi,i>=1,number of a should be number of be
+    i.aabb
+    ii.aabb
+    iii.aaabbb

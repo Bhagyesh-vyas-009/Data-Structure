@@ -1,0 +1,18 @@
+wap to swap two numbers using user define method.
+
+create class employee detail with attributes 
+Employee Id
+Designation
+Salary
+
+wapto read and display its details.
+
+
+ take track of size 3 and perform opertaion
+ 
+1. push 1,push 2,push 3,push 4
+2. pop,pop
+3. push 5
+4. change 3rd elemnt to 8
+5. push 6,7
+6. traverse stack

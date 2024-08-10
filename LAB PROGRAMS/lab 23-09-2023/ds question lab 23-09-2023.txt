@@ -1,0 +1,6 @@
+wap to insert a element at a given location in a array.
+
+
+wap to delete number at a given location in a array.
+
+wap to take 2x2 matrix addition using array.

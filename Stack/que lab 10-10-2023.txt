@@ -1,0 +1,6 @@
+write  menu driven to implement following operation on the stack using an array
+push
+pop
+display
+peep 
+change

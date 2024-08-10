@@ -1,0 +1,11 @@
+wap to read and display n number using array
+    
+wap to calculate sum of number from m to n
+    
+wap to calculate average of first n numbers
+    
+wap to find position of smallest number from given n numbers
+    
+wap to find wheter the array conatins a duplicates or not 
+    
+find and replace a number in array
